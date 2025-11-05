@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaptainMcCrank
 - 👀 I’m interested in Rasbperry PI, IoT Network Analysis, IoT Security & Security Education for Kids
-- 🌱 I’m currently learning AWS Cloudformation
+- 🌱 I’m currently maxing out on Agentic software and hardware development
 - 💞️ I’m looking to collaborate on Rasbperry Pi Automation
 - 📫 How to reach me p@mccannabanana.com
 
